@@ -22,12 +22,12 @@ repository               : "klrs21/klrs21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6649.JPG"
+  avatar           : "profile.png"
   name             : "Muhammad Mikail Rais"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Robotics Engineer"
   location         : "Singapore"
-  employer         : "Nanyang Technological University (NTU)"
+  employer         : "Nanyang Technological University"
   uri              : # URL
   email            : "muhammad562@e.ntu.edu.sg" 
 
